@@ -1,7 +1,4 @@
-codeofconduct
-=============
-
-#### Code for Lansing's Code of Conduct
+## Code for Lansing's Code of Conduct
 
 The Code for Lansing community expects that Code for Lansing network activities, events, and digital forums:
 
@@ -20,9 +17,9 @@ The Code for Lansing community expects that Code for Lansing network activities,
 
 Code for Lansing reserves the right to ask anyone in violation of these policies not to participate in Code for Lansing network activities, events, and digital forums.
 
-#### Code for Lansing's Anti-Harassment Policy
+## Code for Lansing's Anti-Harassment Policy
 
-This anti-harassment policy is based on <a href="http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy">the example policy</a> from the Geek Feminism wiki, created by the Ada Initiative and other volunteers.
+This anti-harassment policy is based on [the example policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy) from the Geek Feminism wiki, created by the Ada Initiative and other volunteers.
 
 This policy is based on several other policies, including the Ohio LinuxFest anti-harassment policy, written by Esther Filderman and Beth Lynn Eicher, and the Con Anti-Harassment Project. Mary Gardiner, Valerie Aurora, Sarah Smith, and Donna Benjamin generalized the policies and added supporting material. Many members of LinuxChix, Geek Feminism and other groups contributed to this work.
 
@@ -30,7 +27,7 @@ This policy is based on several other policies, including the Ohio LinuxFest ant
 
 All Code for Lansing network activities, events, and digital forums and their staff, presenters, and participants are held to an anti-harassment policy, included below.
 
-In addition to governing our own events by this policy, Code for Lansing will only lend our brand and fund groups that offer an anti-harassment policy to their attendees. For information on how to offer an anti-harassment policy to your group, <a href="https://docs.google.com/a/codeforamerica.org/document/d/1Zg2FDt7awgfCmdcbzMwKHMb1A7KDOhs_z7ibCb3TLLQ/edit">see this guide</a>.
+In addition to governing our own events by this policy, Code for Lansing will only lend our brand and fund groups that offer an anti-harassment policy to their attendees. For information on how to offer an anti-harassment policy to your group, [see this guide](https://docs.google.com/a/codeforamerica.org/document/d/1Zg2FDt7awgfCmdcbzMwKHMb1A7KDOhs_z7ibCb3TLLQ/edit).
 
 Code for Lansing is dedicated to providing a harassment-free experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, or religion. We do not tolerate harassment of staff, presenters, and participants in any form. Sexual language and imagery is not appropriate for any Code for Lansing event or network activity, including talks. Anyone in violation of these policies may be expelled from Code for Lansing network activities, events, and digital forums, at the discretion of the event organizer or forum administrator.
 
@@ -38,15 +35,15 @@ Harassment includes but is not limited to: offensive verbal or written comments 
 
 If a participant engages in harassing behavior, the organizers may take any action they deem appropriate, including warning the offender or expulsion from Code for Lansing network activities, events, and digital forums. 
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the event staff or forum administrator immediately. You can contact them at charlaburnett89@gmail.com. Event staff or forum administrators will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event.
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the event staff or forum administrator immediately. You can contact them at safespace@codeforlansing.org. Event staff or forum administrators will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event.
 
 If you cannot reach an event organizer or forum administrator and/or it is an emergency, please call 911 and/or remove yourself from the situation. 
 
-You can also contact Code for Lansing about harassment by emailing **safespace@codeforamerica.org** and feel free to use the email template below. Code for Lansing staff acknowledge that we are not always in a position to evaluate a given situation due to the number of events and the fact that our team is not always present. However, we are hopeful that by providing these guidelines we are establishing a community that jointly adheres to these values and can provide an environment that is welcoming to all.
+You can also contact Code for Lansing about harassment by emailing **safespace@codeforlansing.org** and feel free to use the email template below. Code for Lansing staff acknowledge that we are not always in a position to evaluate a given situation due to the number of events and the fact that our team is not always present. However, we are hopeful that by providing these guidelines we are establishing a community that jointly adheres to these values and can provide an environment that is welcoming to all.
 
 We value your attendance and hope that by communicating these expectations widely we can all enjoy a harassment-free environment.
 
-#### Email Template for Anti-Harassment Reporting
+## Email Template for Anti-Harassment Reporting
 
 SUBJECT: Safe Space alert at [EVENT NAME]
 
